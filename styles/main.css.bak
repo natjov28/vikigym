@@ -18,7 +18,7 @@ body {
     /* In degree: 11.31deg */
 
     background-image: 
-        linear-gradient(101.31deg, #07098f 50%, rgba(0, 0, 0, 0.5) 50%, transparent 55%),
+        linear-gradient(101.31deg, red 50%, rgba(0, 0, 0, 0.5) 50%, transparent 55%),
         url("../image/waves-white-cropped.svg"),
         linear-gradient(0deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 100%),
         url("../image/viktorplavi.jpg");
