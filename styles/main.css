@@ -66,15 +66,18 @@ body {
 }
 @media (max-width: 62.5em){
     body {
-        background-color: #07098f ;
-        background-image: url(../image/waves-white-cropped.svg);
+       /* background-color: #07098f ;*/
+       /* background-image: url(../image/waves-white-cropped.svg);*/
+       background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 100%),
+       url("../image/viktorplavi.jpg"); 
         background-attachment: initial;
         background-repeat: no-repeat;
         background-position: 100% 100%;
-        background-size: 50vw auto;
+        background-size:calc(11% + 91vh) auto;;
     }
 
 }
+
 
 .page {
     display: flex;
