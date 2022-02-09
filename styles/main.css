@@ -72,8 +72,8 @@ body {
        url("../image/viktorplavi.jpg"); 
         background-attachment: initial;
         background-repeat: no-repeat;
-        background-position: 100% 100%;
-        background-size:calc(11% + 91vh) auto;;
+        background-position:center;
+        background-size: 100% 100%;
     }
 
 }
